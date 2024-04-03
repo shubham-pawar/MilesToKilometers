@@ -10,7 +10,7 @@ def convert():
 
 #window
 window = ttk.Window(themename="darkly")
-window.title("Welcome to app!")
+window.title("M to K convertor!")
 window.geometry('550x200')
 
 # title
